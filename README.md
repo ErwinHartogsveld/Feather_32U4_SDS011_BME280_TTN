@@ -10,8 +10,8 @@ This is a project for meassuring fine dust with:
 
   
   Principle:
-  Sample frequency is 1 second. The average of each 160 sec of PM10 and PM2.5 data and the actual valueus of RH, temp and Pressure will be   queued and send to TTN. Also the ID of the SDS011 sensor will be transmitted to the TTN.
+  Sample frequency is 1 second. The average of each 160 sec of PM10 and PM2.5 data and the actual values of RH, temp and Pressure will be     queued and send to TTN. Also the ID of the SDS011 sensor will be transmitted to the TTN.
   
-  See the setup document to configure your system. This document includes the wireing, uploading yor sketch and the configuration of the     TTN.
+  See the setup document to configure your system. This document includes the wireing, uploading your sketch and the configuration of the     TTN.
   
   
