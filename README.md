@@ -6,7 +6,7 @@ This is a step-by-step configuration to connect your SDS011 to TTN.
 This is a project for meassuring fine dust with:
   - Micro controller Feather 32u4 product ID3078 (https://www.adafruit.com/product/3078)
   - Fine dust sensor Novafitness SDS011 (PM10 & PM2.5) (http://inovafitness.com/en/a/chanpinzhongxin/95.html)
-  - Erwin
+  - BME280 RH/Temp/Pressure (https://www.ebay.com/itm/401000227934)
 
   
   Principle:
